@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "You found me."
+date:   2016-03-04 13:29:04 +0800
+categories: intro
+---
+I'll try to update this *thing* once or twice a week.
