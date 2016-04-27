@@ -1,6 +1,6 @@
 ---
 layout: til
-title:  "Re-blah: "
+title:  "Re-blah: Server Setup Guide"
 date:   2016-04-26
 categories: til
 tags: django nginx gunicorn supervisor
